@@ -13,7 +13,7 @@ app.get('/', function (req, res) {
 })
 
 mailchimp.setConfig({
-  apiKey:"3e7c89d726334b3c5fdbae953c6f3af7-us14",
+  apiKey:"123456789101112-us14",  //You have to create your own API key on Mailchimp
   server:"us14",
 })
 
