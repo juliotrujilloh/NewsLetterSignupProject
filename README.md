@@ -2,10 +2,6 @@
 
 Newsletter project created with the Mailchimp API.
 
-# Memento - MERN
-
-MERN stack web app to create notes online.
-
 ## Description
 
 All the gathered data is sent to a Mailchimp Newsletter account.
